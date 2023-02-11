@@ -50,11 +50,11 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-#  - jekyll-paginate
-#  - jekyll-sitemap
-#  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
-#  - jemoji
+  - jemoji
   - jekyll-include-cache
 
 author:
