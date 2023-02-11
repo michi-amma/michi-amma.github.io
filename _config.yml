@@ -84,7 +84,7 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.co.jp/citations?user=W4ZXJUEAAAAJ&hl=en"
     - label: "ORCID"
-      icon: "fa-brands fa-orcid"
+      icon: <i class="fa-brands fa-orcid"></i>
       url: "https://orcid.org/0000-0002-6742-9026"
 
 defaults:
