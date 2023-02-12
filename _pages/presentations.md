@@ -3,9 +3,11 @@ permalink: /presentations/
 title: "Presentations"
 ---
 
+## 2023
+
 ## 2022
 <ul>
-  <span style="font-size: 80%"><li>Amma, M., B. Qiu, N. Schneider, K. Richards, and T. Hayasaka, Interannual variation in surface net heat flux in the Barents Sea, AGU Fall Meeting 2022 (December 12-16, 2022, Chicago), poster.</li></span>
+  <span style="font-size: 80%"><li> <strong>Amma, M.,</strong> B. Qiu, N. Schneider, K. Richards, and T. Hayasaka, Interannual variation in surface net heat flux in the Barents Sea, AGU Fall Meeting 2022 (December 12-16, 2022, Chicago), poster.</li></span>
   <span style="font-size: 80%"><li>Amma, M., and T. Hayasaka, What controls the interannual variability of upward shortwave radiation at the top-of-atmosphere over the Arctic?, International Radiation Symposium 2022, (Thessaloniki, Greece, July 4-8, 2022), poster.</li></span>
   <span style="font-size: 80%"><li>Amma, M., and T. Hayasaka, What controls the interannual variability of upward shortwave radiation at the top-of-atmosphere over the Arctic?, Earth, Sea and Sky VII: International Joint Graduate Program Workshop in Earth and Environmental Sciences (June 6–10, 2022, Online & Sendai), poster.</li></span>
 </ul>
