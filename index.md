@@ -12,3 +12,10 @@ Graduate School of Science, Tohoku University </span>
 
 ## Research interests
 <span style="font-size: 80%">Radiation and energy budget, air-sea interaction</span>
+
+## Degrees
+<span style="font-size: 80%">M.Sc., Geophysics, Tohoku University, Mar. 2020.  
+B.Sc., Geophysics, Tohoku University, Mar. 2018.</span>
+
+## Awards
+<span style="font-size: 80%">JpGU 2021 Outstanding Student Presentation Award.</span>
