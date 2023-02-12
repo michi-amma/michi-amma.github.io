@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Michinari Amma"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Amma.png"
   bio    : "Ph.D. student at Tohoku University"
   links:
     - label: "Google Scholar"
