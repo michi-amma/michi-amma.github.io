@@ -15,6 +15,7 @@ title: "Presentations"
 ## 2021
 <ul>
   <span style="font-size: 80%"><li> <strong>Amma, M.,</strong> and T. Hayasaka, Seasonal and long-term variations in the top of the atmosphere shortwave radiation over the Arctic, Earth, Sea and Sky VI: International Joint Graduate Program Workshop in Earth and Environmental Sciences (June 7–11, 2021, Online & Sendai), poster.</li></span>
+  <span style="font-size: 80%"><li> <strong>安間碩成,</strong> 早坂忠裕: 北極域の大気上端の短波放射フラックスの季節変動とその長期変動, 日本地球惑星科学連合2021年大会, (2021年5月30日–6月6日,オンライン), 口頭.</li></span>
 </ul>
 
 ## 2020
