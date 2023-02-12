@@ -16,4 +16,4 @@ title: "Presentations"
 - Michinari Amma, Tadahiro Hayasaka, Seasonal and long-term variations in the top of the atmosphere shortwave radiation over the Arctic, Earth, Sea and Sky VI: International Joint Graduate Program Workshop in Earth and Environmental Sciences (June 7–11, 2021, Online & Sendai), poster.
 
 ## 2020
-- Michinari Amma, Tadahiro Hayasaka, What is the controlling factor of trends in upward shortwave radiation over the Arctic?, AGU Fall Meeting 2020 (December 1-17, 2020, Online), poster.
+- <span style="font-size: 80%"> Michinari Amma, Tadahiro Hayasaka, What is the controlling factor of trends in upward shortwave radiation over the Arctic?, AGU Fall Meeting 2020 (December 1-17, 2020, Online), poster.</span>
