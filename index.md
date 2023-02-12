@@ -10,6 +10,9 @@ Radiation and Climate Physics Group,
 Center for Atmospheric and Oceanic Studies,  
 Graduate School of Science, Tohoku University </span>
 
+## Contact
+<span style="font-size: 80%"> michinari.amma.r1  (at)  dc.tohoku.ac.jp </span>
+
 ## Research interests
 <span style="font-size: 80%">Radiation and energy budget, air-sea interaction</span>
 
