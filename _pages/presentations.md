@@ -5,9 +5,7 @@ title: "Presentations"
 
 ## 2022
 <span style="font-size: 80%">
-<ul>
- <li>Michinari Amma, Bo Qiu, Niklas Schneider, Kelvin Richards, Tadahiro Hayasaka, Interannual variation in surface net heat flux in the Barents Sea, AGU Fall Meeting 2022 (December 12-16, 2022, Chicago), poster.</li>
-<ul>
+Michinari Amma, Bo Qiu, Niklas Schneider, Kelvin Richards, Tadahiro Hayasaka, Interannual variation in surface net heat flux in the Barents Sea, AGU Fall Meeting 2022 (December 12-16, 2022, Chicago), poster.
 <span>
   
   
