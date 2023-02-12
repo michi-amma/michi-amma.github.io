@@ -21,4 +21,4 @@ Graduate School of Science, Tohoku University </span>
 B.Sc., Geophysics, Tohoku University, Mar. 2018.</span>
 
 ## Awards
-<span style="font-size: 80%">JpGU 2021 Outstanding Student Presentation Award.</span>
+<span style="font-size: 80%"><a href="https://www.jpgu.org/en/ospa/2021meeting/#sectionA">JpGU 2021 Outstanding Student Presentation Award</a></span>
