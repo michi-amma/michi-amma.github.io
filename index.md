@@ -15,7 +15,7 @@ Graduate School of Science, Tohoku University
 michinari.amma.r1  (at)  dc.tohoku.ac.jp
 
 ## Research interests
-Radiation and energy budget, air-sea interaction
+Radiation and energy budget, polar climate dynamics, air-sea interaction
 
 ## Degrees
 Ph.D. student, Geophysics, Tohoku University, Apr. 2020 -  
