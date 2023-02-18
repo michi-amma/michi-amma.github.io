@@ -4,6 +4,7 @@ title: "Presentations"
 ---
 
 ## Upcoming
+- Amma, M., and T. Hayasaka, Seasonal and long-term variations in the top of the atmosphere shortwave radiation over the Arctic, Earth, Sea and Sky VI: International Joint Graduate Program Workshop in Earth and Environmental Sciences, June 7–11, 2021, Online & Sendai, Japan, poster.
 
 ## 2022
 <ul>
