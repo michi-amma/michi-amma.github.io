@@ -4,30 +4,22 @@ title: "Presentations"
 ---
 
 ## Upcoming
-- Amma, M., and T. Hayasaka, Seasonal and long-term variations in the top of the atmosphere shortwave radiation over the Arctic, Earth, Sea and Sky VI: International Joint Graduate Program Workshop in Earth and Environmental Sciences, June 7–11, 2021, Online & Sendai, Japan, poster.
 
 ## 2022
-<ul>
-  <span style="font-size: 80%"><li> <strong>Amma, M.,</strong> B. Qiu, N. Schneider, K. Richards, and T. Hayasaka, Interannual variation in surface net heat flux in the Barents Sea, AGU Fall Meeting 2022, December 12-16, 2022, Chicago, poster.</li></span>
-  <span style="font-size: 80%"><li> <strong>Amma, M.,</strong> and T. Hayasaka, What controls the interannual variability of upward shortwave radiation at the top-of-atmosphere over the Arctic?, International Radiation Symposium 2022, July 4-8, 2022, Thessaloniki, Greece, poster.</li></span>
-  <span style="font-size: 80%"><li> <strong>Amma, M.,</strong> and T. Hayasaka, What controls the interannual variability of upward shortwave radiation at the top-of-atmosphere over the Arctic?, Earth, Sea and Sky VII: International Joint Graduate Program Workshop in Earth and Environmental Sciences, June 6–10, 2022, Online & Sendai, Japan, poster.</li></span>
-</ul>
+- __Amma, M.,__ B. Qiu, N. Schneider, K. Richards, and T. Hayasaka, Interannual variation in surface net heat flux in the Barents Sea, AGU Fall Meeting 2022, December 12-16, 2022, Chicago, poster.
+- __Amma, M.,__ B. Qiu, N. Schneider, K. Richards, and T. Hayasaka, Interannual variation in surface net heat flux in the Barents Sea, AGU Fall Meeting 2022, December 12-16, 2022, Chicago, poster.
+- __Amma, M.,__ and T. Hayasaka, What controls the interannual variability of upward shortwave radiation at the top-of-atmosphere over the Arctic?, International Radiation Symposium 2022, July 4-8, 2022, Thessaloniki, Greece, poster.
+- __Amma, M.,__ and T. Hayasaka, What controls the interannual variability of upward shortwave radiation at the top-of-atmosphere over the Arctic?, Earth, Sea and Sky VII: International Joint Graduate Program Workshop in Earth and Environmental Sciences, June 6–10, 2022, Online & Sendai, Japan, poster.
 
 ## 2021
-<ul>
-  <span style="font-size: 80%"><li> <strong>Amma, M.,</strong> and T. Hayasaka, Seasonal and long-term variations in the top of the atmosphere shortwave radiation over the Arctic, Earth, Sea and Sky VI: International Joint Graduate Program Workshop in Earth and Environmental Sciences, June 7–11, 2021, Online & Sendai, Japan, poster.</li></span>
-  <span style="font-size: 80%"><li> <strong>安間碩成,</strong> 早坂忠裕: 北極域の大気上端の短波放射フラックスの季節変動とその長期変動, 日本地球惑星科学連合2021年大会, 2021年5月30日–6月6日, オンライン, 口頭.</li></span>
-  <span style="font-size: 80%"><li> <strong>安間碩成,</strong> 早坂忠裕: 北極域の大気上端の短波放射フラックスの季節変動とその長期変動, 日本気象学会2021 年度春季大会, 2021年5月16日–21日, オンライン, 口頭.</li></span>
-</ul>
+- __Amma, M.,__ and T. Hayasaka, Seasonal and long-term variations in the top of the atmosphere shortwave radiation over the Arctic, Earth, Sea and Sky VI: International Joint Graduate Program Workshop in Earth and Environmental Sciences, June 7–11, 2021, Online & Sendai, Japan, poster.
+- __安間碩成,__ 早坂忠裕: 北極域の大気上端の短波放射フラックスの季節変動とその長期変動, 日本地球惑星科学連合2021年大会, 2021年5月30日–6月6日, オンライン, 口頭.
+- __安間碩成,__ 早坂忠裕: 北極域の大気上端の短波放射フラックスの季節変動とその長期変動, 日本気象学会2021 年度春季大会, 2021年5月16日–21日, オンライン, 口頭.
 
 ## 2020
-<ul>
-  <span style="font-size: 80%"><li> <strong>Amma, M.,</strong> and T. Hayasaka, What is the controlling factor of trends in upward shortwave radiation over the Arctic?, AGU Fall Meeting 2020, December 1-17, 2020, Online, poster.</li></span>
-  <span style="font-size: 80%"><li> <strong>安間碩成,</strong> 早坂忠裕: 北極圏の大気上端の上向き短波放射フラックスの長期変動とその要因, 日本気象学会2020年度秋季大会, 2020年10月25日–31日, オンライン, 口頭.</li></span>
-</ul>
+- __Amma, M.,__ and T. Hayasaka, What is the controlling factor of trends in upward shortwave radiation over the Arctic?, AGU Fall Meeting 2020, December 1-17, 2020, Online, poster.
+- __安間碩成,__ 早坂忠裕: 北極圏の大気上端の上向き短波放射フラックスの長期変動とその要因, 日本気象学会2020年度秋季大会, 2020年10月25日–31日, オンライン, 口頭.
 
 ## 2019
-<ul>
-  <span style="font-size: 80%"><li> <strong>安間碩成,</strong> 早坂忠裕: 黒潮続流とガルフストリーム上における大気のエネルギー収支の季節変動の解析, 日本気象学会2019年度秋季大会, 2019年10月28日–31日, 福岡県福岡市, ポスター.</li></span>
-  <span style="font-size: 80%"><li> <strong>安間碩成,</strong> 早坂忠裕: 冬季北太平洋における大気のエネルギー収支の解析, 日本気象学会2019年度春季大会, 2019年5月15日–18日, 東京都渋谷区, ポスター.</li></span>
-</ul>
+- __安間碩成,__ 早坂忠裕: 黒潮続流とガルフストリーム上における大気のエネルギー収支の季節変動の解析, 日本気象学会2019年度秋季大会, 2019年10月28日–31日, 福岡県福岡市, ポスター.
+- __安間碩成,__ 早坂忠裕: 冬季北太平洋における大気のエネルギー収支の解析, 日本気象学会2019年度春季大会, 2019年5月15日–18日, 東京都渋谷区, ポスター.
