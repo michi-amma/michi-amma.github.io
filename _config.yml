@@ -69,7 +69,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0002-6742-9026"
     - label: "CV"
-      icon: "fas fa-fw fa-file-text"
+      icon: "fas fa-fw fa-file"
       url: "/files/cv.pdf"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
