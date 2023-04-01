@@ -4,6 +4,9 @@ title: "Presentations"
 ---
 
 ## Upcoming
+- __安間碩成,__ 早坂忠裕: 北極域と南極域の大気上端の上向き短波放射フラックスの長期変動, 日本地球惑星科学連合2023年大会, 2023年5月21日–26日, 千葉県千葉市, 口頭.
+
+## 2023
 
 ## 2022
 - __Amma, M.,__ B. Qiu, N. Schneider, K. Richards, and T. Hayasaka, Interannual variation in surface net heat flux in the Barents Sea, AGU Fall Meeting 2022, December 12-16, 2022, Chicago, poster.
