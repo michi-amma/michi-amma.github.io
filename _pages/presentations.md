@@ -4,11 +4,12 @@ title: "Presentations"
 ---
 
 ## Upcoming
-- __安間碩成,__ 早坂忠裕: 北極域と南極域の大気上端の上向き短波放射フラックスの長期変動, 日本地球惑星科学連合2023年大会, 2023年5月21日–26日, 千葉県千葉市, 口頭.
-- __安間碩成,__ 早坂忠裕: 南極域の大気上端の上向き短波放射フラックスの長期変動, 日本気象学会2023年度春季大会, 2023年5月16日–20日, オンライン & 東京都文京区, ポスター.
 
 ## 2023
-
+- __Amma, M.,__ and T. Hayasaka, Long-term variation in top-of-atmosphere upward shortwave radiation over the Arctic and Antarctic regions, Earth, Sea and Sky VIII: International Joint Graduate Program Workshop in Earth and Environmental Sciences, May 28–31, 2023, Sendai, Japan, poster.
+- __安間碩成,__ 早坂忠裕: 北極域と南極域の大気上端の上向き短波放射フラックスの長期変動, 日本地球惑星科学連合2023年大会, 2023年5月21日–26日, 千葉県千葉市, 口頭.
+- __安間碩成,__ 早坂忠裕: 南極域の大気上端の上向き短波放射フラックスの長期変動, 日本気象学会2023年度春季大会, 2023年5月16日–20日, オンライン & 東京都文京区, ポスター.
+  
 ## 2022
 - __Amma, M.,__ B. Qiu, N. Schneider, K. Richards, and T. Hayasaka, Interannual variation in surface net heat flux in the Barents Sea, AGU Fall Meeting 2022, December 12-16, 2022, Chicago, poster.
 - __Amma, M.,__ and T. Hayasaka, What controls the interannual variability of upward shortwave radiation at the top-of-atmosphere over the Arctic?, International Radiation Symposium 2022, July 4-8, 2022, Thessaloniki, Greece, poster.
