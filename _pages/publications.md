@@ -3,4 +3,4 @@ permalink: /publications/
 title: "Publications"
 ---
 
-- __Amma, M.,__ and T. Hayasaka, 2023: Interannual Variation in Top-of-Atmosphere Upward Shortwave Flux over the Arctic Related to Sea Ice, Snow Cover, and Land Cloud Cover in Spring and Summer, Journal of Climate, in press. https://doi.org/10.1175/JCLI-D-22-0440.1
+- __Amma, M.,__ and T. Hayasaka, 2023: Interannual variation in top-of-atmosphere upward shortwave flux over the Arctic related to sea ice, snow cover, and land cloud cover in spring and summer, Journal of Climate, 36, 5003–5019. https://doi.org/10.1175/JCLI-D-22-0440.1
