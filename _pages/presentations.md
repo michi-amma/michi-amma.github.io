@@ -4,6 +4,7 @@ title: "Presentations"
 ---
 
 ## Upcoming
+- __Amma, M.,__ and T. Hayasaka, Interannual variation in top-of-atmosphere upward shortwave flux over the Antarctic region, The 14th Symposium on Polar Science, November 14–17, 2023, Tachikawa, Japan, poster.
 
 ## 2023
 - __Amma, M.,__ and T. Hayasaka, Atmospheric effect on intense marine heatwaves in South Java, International Symposium: Past, Present, and Future of the Marine Environment and Ecosystems, October 18–19, 2023, Sendai, Japan, poster.
