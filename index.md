@@ -5,20 +5,20 @@ author_profile: true
 ---
 
 ## Michinari Amma
-Ph.D. student (Apr. 2020 - )  
+Postdoctoral researcher (Apr. 2024 - )  
 Radiation and Climate Physics Group,  
 Center for Atmospheric and Oceanic Studies,  
 Graduate School of Science, Tohoku University
 
 
 ## Contact
-michinari.amma.r1  (at)  dc.tohoku.ac.jp
+michinari.amma.e1  (at)  tohoku.ac.jp
 
 ## Research interests
 Radiation and energy budget, polar climate dynamics, air-sea interaction
 
 ## Degrees
-Ph.D. student, Geophysics, Tohoku University, Apr. 2020 -  
+Ph.D., Geophysics, Tohoku University, Mar. 2024.  
   Advisor: Prof. Tadahiro Hayasaka
 
 M.Sc., Geophysics, Tohoku University, Mar. 2020.    
