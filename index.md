@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Michinari Amma
-Postdoctoral researcher (Apr. 2024 - )  
+Research Fellow (Apr. 2024 - )  
 Radiation and Climate Physics Group,  
 Center for Atmospheric and Oceanic Studies,  
 Graduate School of Science, Tohoku University
