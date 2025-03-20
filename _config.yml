@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Michinari Amma"
   avatar : "/assets/images/Amma.png"
-  bio    : "Research Fellow at Tohoku University"
+  bio    : "Research Fellow at University of Michigan"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
