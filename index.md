@@ -5,14 +5,14 @@ author_profile: true
 ---
 
 ## Michinari Amma
-Research Fellow (Apr. 2024 - )  
-Radiation and Climate Physics Group,  
-Center for Atmospheric and Oceanic Studies,  
-Graduate School of Science, Tohoku University
+Research Fellow (Feb. 2025 - )  
+Huang Research Group,
+Department of Climate and Space Sciences and Engineering,  
+College of Engineering, University of Michigan
 
 
 ## Contact
-michinari.amma.e1  (at)  tohoku.ac.jp
+amichina  (at)  umich.edu
 
 ## Research interests
 Radiation and energy budget, polar climate dynamics, air-sea interaction
