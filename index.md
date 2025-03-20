@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Michinari Amma
-Research Fellow (Feb. 2025 - )  
+Research Fellow   
 Huang Research Group,  
 Department of Climate and Space Sciences and Engineering,  
 College of Engineering, University of Michigan
