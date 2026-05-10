@@ -5,6 +5,8 @@ title: "Presentations"
 
 ## Upcoming
 
+## 2025
+- __Amma, M.,__ X. Chen, S. Zhao, H. Wang, W. Lyn, and X. Huang, Evaluating Arctic spectral outgoing longwave radiation trends in E3SM using satellite observations, AGU25, December 15-19, 2025, New Orleans, poster.
 
 ## 2023
 - __Amma, M.,__ and T. Hayasaka, Interannual variation in top-of-atmosphere upward shortwave flux over the Antarctic region, The 14th Symposium on Polar Science, November 14–17, 2023, Tachikawa, Japan, poster.
